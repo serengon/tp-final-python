@@ -1,0 +1,14 @@
+# Entorno virtual (cada uno arma el suyo con requirements.txt)
+.venv/
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Base de datos local de Django
+db.sqlite3
+
+# Archivo generado al ejecutar el ejercicio 2
+catalogo_ecotech.json
